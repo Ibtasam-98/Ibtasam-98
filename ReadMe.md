@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mobile application developer with expertise in integrating machine learning into applications, particularly in healthcare. Focus on building innovative, data-driven solutions to improve healthcare accessibility and diagnostics through Machine Learning powered applications.
+Flutter mobile application developer with experience integrating machine learning into applications, particularly in the healthcare sector. Dedicated to building innovative, data-driven solutions that leverage ML to enhance healthcare accessibility and diagnostics.
 
 
 ## 🌐 Socials:
